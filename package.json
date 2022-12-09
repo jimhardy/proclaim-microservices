@@ -20,7 +20,7 @@
   "homepage": "https://github.com/jimhardy/tecReportsSOAP#readme",
   "dependencies": {
     "@hapi/boom": "^7.4.2",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "dotenv": "^7.0.0",
     "eslint-config-rallycoding": "^3.2.0",
     "hapi": "^18.1.0",
